@@ -1,0 +1,30 @@
+.tittle__pr{
+    margin-bottom: 20px;
+}
+.tittle{
+    padding: 30px;
+    text-align: center;
+}
+.stadistics{
+    width: 480px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+.table{
+    display: flex;
+    justify-content: space-between;
+}
+.blocks{
+    display: flex;
+    flex: 1;
+    height: auto;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    padding: 20px;
+    color: #fff;
+}
+

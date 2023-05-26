@@ -1,0 +1,24 @@
+.tittle{
+  margin-bottom: 20px;
+}
+.table{
+    width: 800px;
+    border-collapse: collapse;
+}
+.header {
+    background-color: #06898170;
+    font-weight: bold;
+  }
+  
+  td, th {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-inline: 1px solid #ddd;
+  }
+  tr:nth-child(odd) td {
+    background-color: rgba(0, 255, 255, 0.174);
+  }
+  .td__letter{
+    font-weight: 500;
+  }
